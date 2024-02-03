@@ -1,4 +1,4 @@
-# Handwritten-Alphabet-Recognition
+# Handwritten-Alphabets-Recognition
 
 **Tools and Techniques Used:**
 This project utilizes Python programming language along with the following tools and techniques:
